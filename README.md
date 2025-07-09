@@ -80,8 +80,11 @@ Negative reviews
 This beginner NLP project demonstrates how to classify sentiment in movie reviews using standard machine learning tools. The Naive Bayes model performs well and provides a strong baseline. Future enhancements may improve performance and usability.
 
 📁 File Structure
+
 csharp
+
 Copy
+
 Edit
 ├── IMDB_Sentiment_Analysis.ipynb  
 ├── IMDB Dataset.csv (not included – download from Kaggle)  
