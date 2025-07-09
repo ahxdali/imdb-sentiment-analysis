@@ -7,6 +7,7 @@ This project uses Natural Language Processing (NLP) techniques to classify movie
 
 📊 Dataset
 Source: IMDb Dataset of 50K Movie Reviews on Kaggle
+Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 50,000 labeled reviews (25,000 positive, 25,000 negative)
 
