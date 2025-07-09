@@ -1,5 +1,6 @@
 # imdb-sentiment-analysis
 📽️ IMDb Sentiment Analysis
+
 A basic NLP project classifying IMDb movie reviews using Python and Naive Bayes.
 
 This project uses Natural Language Processing (NLP) techniques to classify movie reviews from the IMDb dataset as positive or negative. It demonstrates text preprocessing, feature extraction using TF-IDF, and model training using a Naive Bayes classifier.
